@@ -1,7 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24c13d45-b491-4024-86d7-2411ba6e5fb9" name="Default" comment="" />
+    <list default="true" id="24c13d45-b491-4024-86d7-2411ba6e5fb9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../.idea/anotacoes_curso_python.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula103_importar_modulo.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula104_importar_simbolo.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula106_localização de módulos/main.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula109_Símbolos Públicos/ferramentas.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula109_Símbolos Públicos/main.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula110_Módulo Principal/modulo.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula110_Módulo Principal/principal.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula26_concatena.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula27_input.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula28_opera.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula29_divisao.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula30_potencia.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula50_escopo.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula53_atribuicao.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula54_atribuicao.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula55_atribuicao_condicional.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula56_iteracao.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula63_continue.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula67_lista.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula71_fatiando_lista.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula81_compara_string.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula84_dicionario.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula87_funcao.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula89_parametro_default.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula93_funcao_variadica.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula94_empacotar.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula95_desempacotar.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula96_funcao_aninhada.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula97_instrucao_nonlocal.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/aula99_instrucao_global.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/criação de módulos/aula105_criar_modulo.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/criação de módulos/main.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../aulas/yolo.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista1/q1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista1/q10.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista1/q11.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista1/q12.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista1/q13.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista1/q14.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista1/q2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista1/q3.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista1/q4.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista1/q5.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista1/q6.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista1/q7.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista1/q8.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista1/q9.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista2/q1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista2/q10.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista2/q11.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista2/q12.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista2/q13.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista2/q14.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista2/q15.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista2/q16.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista2/q17.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista2/q18.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista2/q2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista2/q3.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista2/q4.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista2/q5.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista2/q6.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista2/q7.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista2/q8.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista2/q9.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista3/q1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista3/q2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista3/q3.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista3/q4.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista3/q5.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista3/q6.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista3/q7.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista3/q8.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista3/q9.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/extra1_soma_lista.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/extra2_passagem_lista.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q10.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q11.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q12.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q13.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q14.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q15.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q16.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q17.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q18.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q19.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q20.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q21.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q3.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q4.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q5.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q6.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q7.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q8.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../lista4/q9.py" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -498,7 +602,38 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="aula116_captura_erro.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aulas/aula116_captura_erro.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aula120_classe.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aulas/aula120_classe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aula124_metodo_construtor.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aulas/aula124_metodo_construtor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -507,13 +642,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/aulas/aula26_concatena.py" />
-        <option value="$PROJECT_DIR$/aulas/aula65_listas.py" />
-        <option value="$PROJECT_DIR$/aulas/aula81_compara_string.py" />
-        <option value="$PROJECT_DIR$/aulas/aula84_dicionario.py" />
         <option value="$PROJECT_DIR$/aulas/aula87_funcao.py" />
         <option value="$PROJECT_DIR$/aulas/aula89_parametro_dafault.py" />
         <option value="$PROJECT_DIR$/lista4/q1.py" />
@@ -561,13 +695,20 @@
         <option value="$PROJECT_DIR$/lista4/q19.py" />
         <option value="$PROJECT_DIR$/lista4/q20.py" />
         <option value="$PROJECT_DIR$/lista4/q21.py" />
+        <option value="$PROJECT_DIR$/aulas/aula116_captura_erro.py" />
+        <option value="$PROJECT_DIR$/aulas/aul120_classe.py" />
+        <option value="$PROJECT_DIR$/aulas/aula120_classe.py" />
+        <option value="$PROJECT_DIR$/aulas/aula124_metodo_construtor.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -584,6 +725,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -600,17 +742,16 @@
           <expand>
             <path>
               <item name="anotacoes_curso_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="anotacoes_curso_python" type="462c0819:PsiDirectoryNode" />
+              <item name="excript" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="yaml" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -632,56 +773,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.q21">
-    <configuration name="q17" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.aula124_metodo_construtor">
+    <configuration name="aula116_captura_erro" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="anotacoes_curso_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista4/q17.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/aula116_captura_erro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="q18" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="aula120_classe" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="anotacoes_curso_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista4/q18.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/aula120_classe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="q19" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="aula124_metodo_construtor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="anotacoes_curso_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista4/q19.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/aula124_metodo_construtor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -830,19 +971,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.q1k27" />
-      <item index="1" class="java.lang.String" itemvalue="Python.q17" />
-      <item index="2" class="java.lang.String" itemvalue="Python.q18" />
-      <item index="3" class="java.lang.String" itemvalue="Python.q19" />
-      <item index="4" class="java.lang.String" itemvalue="Python.q20" />
-      <item index="5" class="java.lang.String" itemvalue="Python.q21" />
+      <item index="1" class="java.lang.String" itemvalue="Python.q20" />
+      <item index="2" class="java.lang.String" itemvalue="Python.q21" />
+      <item index="3" class="java.lang.String" itemvalue="Python.aula116_captura_erro" />
+      <item index="4" class="java.lang.String" itemvalue="Python.aula120_classe" />
+      <item index="5" class="java.lang.String" itemvalue="Python.aula124_metodo_construtor" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.q21" />
-        <item index="1" class="java.lang.String" itemvalue="Python.q20" />
-        <item index="2" class="java.lang.String" itemvalue="Python.q19" />
-        <item index="3" class="java.lang.String" itemvalue="Python.q18" />
-        <item index="4" class="java.lang.String" itemvalue="Python.q17" />
+        <item index="0" class="java.lang.String" itemvalue="Python.aula124_metodo_construtor" />
+        <item index="1" class="java.lang.String" itemvalue="Python.aula120_classe" />
+        <item index="2" class="java.lang.String" itemvalue="Python.aula116_captura_erro" />
+        <item index="3" class="java.lang.String" itemvalue="Python.q21" />
+        <item index="4" class="java.lang.String" itemvalue="Python.q20" />
       </list>
     </recent_temporary>
   </component>
@@ -872,19 +1013,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="1" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25678498" sideWeight="0.48772505" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25678498" sideWeight="0.48772505" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.50417536" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32491767" sideWeight="0.49582464" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32491767" sideWeight="0.49582464" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947807" sideWeight="0.49396268" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39846322" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22546972" sideWeight="0.512275" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39846322" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -895,7 +1037,15 @@
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
+    <option name="myShow1" value="true" />
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <option name="LIMIT_HISTORY" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -933,7 +1083,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="31" />
+      <option name="time" value="33" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -977,6 +1127,31 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>r3</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>r2</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>r1</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>r2.teste = 5</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>p1.__class__</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>str[::-1]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -996,55 +1171,9 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>list(range(1,4))</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>range(1,4)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>len(l)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>num</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>globals()</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aulas/aula56_iteracao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/aula81_compara_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lista4/q8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lista4/q9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1382,6 +1511,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/aula116_captura_erro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/aula120_classe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/aula124_metodo_construtor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
