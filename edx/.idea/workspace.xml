@@ -11,55 +11,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HomeWork2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Using Python for Research/HomeWork2.py">
+      <file leaf-file-name="ps4a.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Problem Set 4/ps4a.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="2205">
+              <caret line="155" column="23" lean-forward="false" selection-start-line="155" selection-start-column="23" selection-end-line="155" selection-end-column="23" />
               <folding>
-                <element signature="e#15#33#0" expanded="true" />
+                <element signature="e#520#701#1" expanded="false" />
+                <element signature="e#1032#1277#1" expanded="false" />
+                <element signature="e#1542#2091#1" expanded="false" />
+                <element signature="e#3064#3409#1" expanded="false" />
+                <element signature="e#3824#4299#1" expanded="false" />
+                <element signature="e#4490#4758#1" expanded="false" />
+                <element signature="e#5045#5179#1" expanded="false" />
+                <element signature="e#5249#6164#1" expanded="false" />
+                <element signature="e#7838#8280#1" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Midterm Exam_problem5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Midterm Exam_problem5.py">
+      <file leaf-file-name="ps4b.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Problem Set 4/ps4b.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Midterm Exam_problem6&amp;7.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Midterm Exam_problem6&amp;7.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dna_translation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Using Python for Research/dna_translation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomWalk.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Using Python for Research/RandomWalk.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="231">
+              <caret line="135" column="4" lean-forward="false" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
               <folding>
-                <element signature="e#11#29#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#103#1310#0" expanded="false" />
+                <element signature="e#103#546#1" expanded="false" />
+                <element signature="e#1381#2140#1" expanded="false" />
+                <element signature="e#3608#4544#1" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -97,10 +79,12 @@
         <option value="$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Midterm Exam_problem6.py" />
         <option value="$PROJECT_DIR$/Using Python for Research/dna_translation.py" />
         <option value="$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Midterm Exam_problem6&amp;7.py" />
+        <option value="$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Problem Set 4/ps4b.py" />
+        <option value="$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Problem Set 4/ps4a.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -120,8 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,15 +111,12 @@
               <item name="edx" type="b2602c69:ProjectViewProjectNode" />
               <item name="edx" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="edx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edx" type="462c0819:PsiDirectoryNode" />
-              <item name="Introduction to Computer Science and Programming Using Python" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,61 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Midterm Exam_problem6">
-    <configuration name="Histograma" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Using Python for Research" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="edx" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Using Python for Research/Histograma.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="HomeWork2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Using Python for Research" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="edx" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Using Python for Research/HomeWork2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Midterm Exam" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="edx" />
-      <option name="SCRIPT_NAME" value="C:\dev\anotacoes_curso_python\edx\Introduction to Computer Science and Programming Using Python\Midterm Exam_problem5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.ps4b">
     <configuration name="Midterm Exam_problem6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,38 +153,92 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Prime_Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ps4a" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Using Python for Research" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Problem Set 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="edx" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Using Python for Research/Prime_Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Problem Set 4/ps4a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="ps4b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Problem Set 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="edx" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Problem Set 4/ps4b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Doctests in ps4a (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Problem Set 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="edx" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Problem Set 4/ps4a.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration name="Doctests in ps4a" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Problem Set 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="edx" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Problem Set 4/ps4a.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Prime_Numbers" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Histograma" />
-      <item index="2" class="java.lang.String" itemvalue="Python.HomeWork2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Midterm Exam" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Midterm Exam_problem6" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Midterm Exam_problem6" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Doctests in ps4a" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Doctests in ps4a (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ps4a" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ps4b" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Midterm Exam_problem6" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Midterm Exam" />
-        <item index="2" class="java.lang.String" itemvalue="Python.HomeWork2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Histograma" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Prime_Numbers" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ps4b" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ps4a" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Doctests in ps4a (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Doctests in ps4a" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Midterm Exam_problem6" />
       </list>
     </recent_temporary>
   </component>
@@ -279,21 +258,28 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Doctests_in_ps4a - 2018.02.03 at 19h 08m 43s.xml">
+      <configuration name="Doctests in ps4a" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_ps4a_(1) - 2018.02.03 at 19h 08m 45s.xml">
+      <configuration name="Doctests in ps4a (1)" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="1" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24843423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24843423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.50417536" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33150384" sideWeight="0.49582464" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28869376" sideWeight="0.49582464" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33479694" sideWeight="0.49582464" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2652174" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26564217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -313,7 +299,14 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="14" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Problem Set 4/ps4a.py</url>
+          <line>228</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="16" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -393,20 +386,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Using Python for Research/HomeWork1_Exercise3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Using Python for Research/Prime_Numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Using Python for Research/HomeWork1_Exercise2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -605,43 +584,66 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#11#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Using Python for Research/HomeWork2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
+        <state relative-caret-position="399">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#33#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Midterm Exam_problem5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
+        <state relative-caret-position="63">
           <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Using Python for Research/dna_translation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="861">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Midterm Exam_problem6&amp;7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="357">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Problem Set 4/ps4a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2205">
+          <caret line="155" column="23" lean-forward="false" selection-start-line="155" selection-start-column="23" selection-end-line="155" selection-end-column="23" />
+          <folding>
+            <element signature="e#520#701#1" expanded="false" />
+            <element signature="e#1032#1277#1" expanded="false" />
+            <element signature="e#1542#2091#1" expanded="false" />
+            <element signature="e#3064#3409#1" expanded="false" />
+            <element signature="e#3824#4299#1" expanded="false" />
+            <element signature="e#4490#4758#1" expanded="false" />
+            <element signature="e#5045#5179#1" expanded="false" />
+            <element signature="e#5249#6164#1" expanded="false" />
+            <element signature="e#7838#8280#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction to Computer Science and Programming Using Python/Problem Set 4/ps4b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="135" column="4" lean-forward="false" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#103#1310#0" expanded="false" />
+            <element signature="e#103#546#1" expanded="false" />
+            <element signature="e#1381#2140#1" expanded="false" />
+            <element signature="e#3608#4544#1" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
